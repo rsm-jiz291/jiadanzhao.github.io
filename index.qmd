@@ -1,0 +1,15 @@
+---
+title: "Jiadan Zhao"
+image: "pic/myphoto.jpeg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: jiz291@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/lydia-jiadan-zhao-46976031b
+
+
+---
+
+Welcome to my website!
