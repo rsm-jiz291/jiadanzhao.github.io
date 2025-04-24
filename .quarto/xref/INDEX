@@ -16,5 +16,8 @@
   },
   "projects.qmd": {
     "projects.html": "a4b2af8a"
+  },
+  "projects/project2/hw1_questions.qmd": {
+    "hw1_questions.html": "0437ca4a"
   }
 }
